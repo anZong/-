@@ -1,0 +1,23 @@
+/**index.wxss**/
+.container{
+  background-color: #315065;
+  overflow-x: hidden
+}
+
+.reset{
+  color:white;
+  width: 80vw;
+  padding-right: 10rpx; 
+}
+
+.title{
+  margin-top: 50rpx;
+  color:aquamarine;
+}
+
+.mycanvas {
+    width: 80vw;
+    height: 80vw;
+    margin: 100rpx auto;
+    background-color: #305066;
+}

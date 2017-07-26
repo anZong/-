@@ -1,0 +1,6 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="title">{{title}}</view>
+  <canvas canvas-id="canvasLock" class="mycanvas" bindtouchstart="onTouchstart" bindtouchend="onTouchend" bindtouchmove="onTouchmove"/>
+   <button class="reset text-center" bindtap="resetPwd" type="primary">重置密码</button>
+</view>

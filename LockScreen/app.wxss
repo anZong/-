@@ -1,0 +1,17 @@
+/**app.wxss**/
+.container {
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: space-between; */
+    padding: 20rpx 0;
+    box-sizing: border-box;
+    font-family: '微软雅黑', 'Arial', 'sans-serif';
+} 
+.text-right{
+    text-align: right
+}
+.text-center{
+    text-align: center
+}
